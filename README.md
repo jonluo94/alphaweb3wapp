@@ -1,12 +1,3 @@
-<div align="center">
-    <img src=".github/intro.png" alt="ChatGPT Miniprogram" width='600' />
-</div>
-
-<p align="center"><samp>该小程序仅作为演示，如需部署请按照以下流程操作</samp></p>
-
-
-<br>
-
 
 ## 功能
 - 🧹 清空屏幕内容
@@ -17,18 +8,7 @@
 
 
 ## 安装
-
-1. 克隆项目
-```bash
-git clone https://github.com/leon-fong/chatgpt-miniprogram.git
-```
-
-2. 进入项目目录
-```bash
-cd chatgpt-miniprogram
-```
-
-3. 安装依赖 (推荐使用 `yarn`)
+安装依赖 (推荐使用 `yarn`)
 ```bash
 yarn install
 ```
@@ -72,18 +52,3 @@ yarn install
     "checked": false
 }
 ```
-
-
-## 常见问题
-请查看 [issues](https://github.com/leon-fong/chatgpt-miniprogram/issues)
-
-## 参与贡献
-- Fork 该项目 
-- 创建一条分支 `git checkout -b feat/AmazingFeature` 
-- 提交你的更改内容 `git commit -m 'Add some AmazingFeature'` 
-- 推送到该分支 `git push origin feat/AmazingFeature`
-- 提交 PR 
-
-
-## License
-MIT © [Leon Fong](https://github.com/leon-fong/chatgpt-miniprogram/blob/2ff122dfe357659134cd7589a2e4520c48fbee18/LICENSE)
