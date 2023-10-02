@@ -1,0 +1,21 @@
+{
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f4f5f5",
+    "navigationBarTitleText": "阿尔法 AI 助手",
+    "navigationBarTextStyle": "black"
+  },
+  "lazyCodeLoading": "requiredComponents",
+  "resolveAlias": {
+    "~/*": "/*"
+  },
+  "usingComponents": {
+    "custom-loading": "/components/custom-loading/index"
+  },
+  "sitemapLocation": "sitemap.json",
+  "pages": [
+    "pages/home/index",
+    "pages/prompt/index",
+    "pages/settings/index"
+  ]
+}
